@@ -11,7 +11,7 @@ Our API supports video platforms like YouTube. Try our YouTube to MP3 API.
 
 **FTYPE:** `mp3` or `mp4`
 
-**VIDEO_ID:** https://www.youtube.com/watch?v=pRpeEdMmmQ0
+**VIDEO_ID:** https://www.youtube.com/watch?v= `pRpeEdMmmQ0`
 
 MP3/MP4 iFrame Code:
 ```
@@ -32,11 +32,11 @@ allowtransparency="true" scrolling="no" style="border:none"></iframe>
 
 **FTYPE:** `widget`
 
-**VIDEO_ID:** https://www.youtube.com/watch?v=pRpeEdMmmQ0
+**VIDEO_ID:** https://www.youtube.com/watch?v= `pRpeEdMmmQ0`
 
 iFrame Code:
 ```
-<iframe id="buttonApi" src="https://apiyt.cc/widget/mYHPnqa7B3Y" width="100%" height="100%"
+<iframe id="buttonApi" src="https://apiyt.cc/widget/pRpeEdMmmQ0" width="100%" height="100%"
 allowtransparency="true" scrolling="no" style="border:none;overflow:hidden;height: 300px;width: 100%;"></iframe>
 
 ```
